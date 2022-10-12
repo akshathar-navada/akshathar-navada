@@ -3,7 +3,7 @@
 - 👀 I’m interested in Competitive programming, Web development and a Machine learning enthusiast.
 - 🌱 I’m currently learning Back end web dev.
 - 💞️ I’m looking to collaborate on projects on my interests
-- 📫 How to reach me - akshathar.navada@gmail.com , linkedin profile - https://www.linkedin.com/in/akshatha-r-1776b9241
+- 📫 How to reach me - <a href="mailto:akshathar.navada@gmail.com">Contact me</a> , <a  href="https://www.linkedin.com/in/akshatha-r-1776b9241/">LinkedIn</a>
 
 
 <!---
